@@ -1,4 +1,4 @@
-Grilli - Amazing & Delicious Food
+HitchkiMeals - Amazing & Delicious Food
 
 This is a Restaurant html template made by codewithsadee
 
@@ -7,7 +7,7 @@ This is a Restaurant html template made by codewithsadee
 #---------- TOP BAR ----------#
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
-Restaurant St, Delicious City, London 9578, UK
+Chatrapati Square , Nagpur 15, MH
 
 <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
 Daily : 8.00 am to 10.00 pm
@@ -16,13 +16,13 @@ Daily : 8.00 am to 10.00 pm
 +1 123 456 7890
 
 <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
-booking@restaurant.com
+booking@hitchkimeals.com
 
 
 
 #---------- HEADER ----------#
 
-alt = Grilli - Home
+alt = HitchkiMeals - Home
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
@@ -35,12 +35,11 @@ Contact
 
 Visit Us
 
-Restaurant St, Delicious City,
-London 9578, UK
+Chatrapati Square , Nagpur 15, MH
 
 Open: 9.30 am - 2.30pm
 
-booking@grilli.com
+booking@hitchkimeals.com
 
 Booking Request
 +88-123-123456
@@ -115,7 +114,7 @@ Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem I
 
 Book Through Call
 
-+80 (400) 123 4567
++91 9175143596
 
 Read More
 
@@ -135,8 +134,8 @@ Lobster Tortellini
 
 Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type.
 
-$40.00
-$20.00
+₹400.00
+₹200.00
 
 View All Menu
 
@@ -153,21 +152,21 @@ alt = Greek Salad
 Greek Salad
 
 Seasonal
-$25.50
+₹25.50
 Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.
 
 2.
 alt = Lasagne
 Lasagne
 
-$40.00
+₹400.00
 Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
 
 3.
 alt = Butternut Pumpkin
 Butternut Pumpkin
 
-$10.00
+₹100.00
 Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.
 
 4.
@@ -175,21 +174,21 @@ alt = Tokusen Wagyu
 Tokusen Wagyu
 
 New
-$39.00
+₹390.00
 Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices.
 
 5.
 alt = Olivas Rellenas
 Olivas Rellenas
 
-$25.00
+₹250.00
 Avocados with crab meat, red onion, crab salad stuffed red bell pepper and green bell pepper.
 
 6.
 alt = Opu Fish
 Opu Fish
 
-$49.00
+₹490.00
 Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
 
 During winter daily from 7:00 pm to 9:00 pm
@@ -249,8 +248,7 @@ Booking Request
 
 Location
 
-Restaurant St, Delicious City,
-London 9578, UK
+Chatrapati Square , Nagpur 15, MH
 
 Lunch Time
 
@@ -307,11 +305,11 @@ View Our Blog
 
 #---------- FOOTER ----------#
 
-alt = grilli home
+alt = hitchkimeals home
 
-Restaurant St, Delicious City, London 9578, UK
+Chatrapati Square , Nagpur 15, MH
 
-booking@grilli.com
+booking@hitchkimeals.com
 
 Booking Request : +88-123-123456
 
@@ -339,7 +337,7 @@ Twitter
 Youtube
 Google Map
 
-&copy; 2022 Grilli. All Rights Reserved | Crafted by
+&copy; 2022 HitchkiMeals. All Rights Reserved | Crafted by
 
 https://github.com/codewithsadee
 
@@ -367,42 +365,42 @@ Best Special Menu
 alt = Greek Salad
 Greek Salad
 Avocados with crab meat, red onion, crab salad red bell pepper...
-$39.00
+₹390.00
 
 alt = Tokusen Wagyu
 Tokusen Wagyu
 Tomatoes, green bell pepper, sliced cucumber onion, olives...
-$45.00
+₹45.00
 
 alt = Butternut Pumpkin
 Butternut Pumpkin
 Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-$15.00
+₹15.00
 
 alt = Opu Fish
 Opu Fish
 Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-$12.00
+₹12.00
 
 alt = Greek Salad
 Greek Salad
 Avocados with crab meat, red onion, crab salad red bell pepper...
-$39.00
+₹390.00
 
 alt = Tokusen Wagyu
 Tokusen Wagyu
 Tomatoes, green bell pepper, sliced cucumber onion, olives...
-$45.00
+₹45.00
 
 alt = Butternut Pumpkin
 Butternut Pumpkin
 Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-$15.00
+₹15.00
 
 alt = Opu Fish
 Opu Fish
 Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-$12.00
+₹12.00
 
 
 alt = feature banner
@@ -412,8 +410,8 @@ Lobster Tortellini
 
 Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since.
 
-$40.00
-$20.00
+₹400.00
+₹200.00
 
 
 
@@ -440,7 +438,7 @@ Monday to Sunday
 5.30 pm - 11.30 pm
 
 Contact Us
-Restaurant St, Delicious City, London 9578, UK
+Chatrapati Square , Nagpur 15, MH
 
 +88-123-123456
 reservation@restro.com
