@@ -42,7 +42,7 @@ Open: 9.30 am - 2.30pm
 booking@hitchkimeals.com
 
 Booking Request
-+91-9175143596
++91-7875938339
 
 Find A Table
 
@@ -114,7 +114,7 @@ Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem I
 
 Book Through Call
 
-+91 9175143596
++91 7875938339
 
 Read More
 
@@ -212,7 +212,7 @@ Sam Jhonson
 Online Reservation
 
 Booking request
-+91-9175143596
++91-7875938339
 or fill out the order form
 
 placeholder = Your Name
@@ -244,7 +244,7 @@ Contact Us
 
 Booking Request
 
-+91-9175143596
++91-7875938339
 
 Location
 
@@ -311,7 +311,7 @@ Chatrapati Square , Nagpur 15, MH
 
 booking@hitchkimeals.com
 
-Booking Request : +91-9175143596
+Booking Request : +91-7875938339
 
 Open : 09:00 am - 01:00 pm
 
@@ -440,5 +440,5 @@ Monday to Sunday
 Contact Us
 Chatrapati Square , Nagpur 15, MH
 
-+91-9175143596
++91-7875938339
 reservation@restro.com

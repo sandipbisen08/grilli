@@ -20,7 +20,7 @@
    * COLORS
    */
 
-  --gold-crayola: hsl(38, 61%, 73%);
+  --gold-crayola: hsl(6deg 65.01% 79.29%);;
   --quick-silver: hsla(0, 0%, 65%, 1);
   --davys-grey: hsla(30, 3%, 34%, 1);
   --smoky-black-1: hsla(40, 12%, 5%, 1);
@@ -918,7 +918,7 @@ body.nav-active { overflow: hidden; }
   transform: translateX(-50%);
   width: 140px;
   height: 100%;
-  background-image: url('../images/img-pattern.svg');
+  background-image: url('../images/img-pattern.jpeg');
   background-position: center;
   background-size: cover;
   background-repeat: repeat;
@@ -989,7 +989,7 @@ body.nav-active { overflow: hidden; }
   left: 50%;
   transform: translateX(-50%);
   width: 140px;
-  background-image: url('../images/img-pattern.svg');
+  background-image: url('../images/img-pattern.jpeg');
   background-repeat: repeat;
 }
 
